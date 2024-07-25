@@ -1,0 +1,14 @@
+.research {
+  display: flex;
+  align-items: center; /* 横方向の中央揃え */
+  justify-content: center; /* 縦方向の中央揃え */
+  position: absolute;
+  bottom: 3rem;
+  right: 1.2rem; /* 右端に配置する場合は必要な位置指定 */
+  width: auto; /* 必要に応じて幅を調整 */
+
+  .researchIcon {
+    font-size: 1.8rem;
+    /* その他のスタイルを追加 */
+  }
+}

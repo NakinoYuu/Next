@@ -1,0 +1,17 @@
+.Btn {
+  width: 5rem;
+  height: 3.2rem;
+  flex-shrink: 0;
+  margin-right: 2rem;
+  border-radius: 2rem;
+  background: var(--, #8c51d7);
+  // margin-top: 5.5rem;
+  p {
+    width: 2.6rem;
+    color: var(--text-color, #3f3f3f);
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: normal;
+  }
+}

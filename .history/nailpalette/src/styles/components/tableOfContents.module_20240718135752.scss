@@ -1,0 +1,15 @@
+.TableOfContents {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  position: fixed;
+  left: 85%;
+  margin-top: 7rem;
+  .TableOfContentsIcon {
+    font-size: 1.8rem;
+    position: relative;
+    top: 0.7rem;
+    right: 3rem;
+    color: #f3f1ff;
+  }
+}

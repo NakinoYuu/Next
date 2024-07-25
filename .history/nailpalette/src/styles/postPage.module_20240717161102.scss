@@ -1,0 +1,12 @@
+// src/styles/postPage.module.scss
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0e0e0;
+  p {
+    font-size: 1.9rem;
+    color: #444;
+  }
+}

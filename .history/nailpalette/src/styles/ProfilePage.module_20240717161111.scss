@@ -1,0 +1,12 @@
+// src/styles/profilePage.module.scss
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #d0d0d0;
+  p {
+    font-size: 1.9rem;
+    color: #555;
+  }
+}

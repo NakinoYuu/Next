@@ -1,0 +1,11 @@
+$center-color: #ff6b6b;
+$outer-color: #ff6b6b;
+$background-color: #f0f0f0;
+$size: 200px;
+
+.circle-gradient {
+  width: $size;
+  height: $size;
+  background-color: $background-color;
+  background: radial-gradient(circle, $center-color, transparent $size);
+}

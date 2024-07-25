@@ -1,0 +1,12 @@
+// src/styles/savePage.module.scss
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  p {
+    font-size: 1.9rem;
+    color: #333;
+  }
+}

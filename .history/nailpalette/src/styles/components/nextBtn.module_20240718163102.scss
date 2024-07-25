@@ -1,0 +1,13 @@
+.Btn {
+  width: 5rem;
+  height: 3.2rem;
+  border-radius: 2rem;
+  background: #8c51d7;
+  p {
+    color: var(--text-color, #3f3f3f);
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 3.2rem;
+  }
+}

@@ -1,0 +1,12 @@
+/* Research.module.scss */
+.research {
+  display: flex;
+  align-items: center; /* 中央揃えするために必要な場合 */
+  justify-content: start;
+
+  .researchIcon {
+    font-size: 1.8rem;
+    // color: #f3f1ff;
+    /* その他のスタイルを追加 */
+  }
+}

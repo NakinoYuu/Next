@@ -1,0 +1,41 @@
+.post-footer {
+  width: 90%;
+  height: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .buttons-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    .fa-heart {
+      font-size: 1.8rem;
+    }
+
+    .fa-comment {
+      font-size: 1.8rem;
+    }
+
+    .fa-arrow-up-from-bracket {
+      font-size: 1.8rem;
+    }
+  }
+
+  .buttons-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    .fa-user {
+      font-size: 1.8rem;
+    }
+
+    .fa-star {
+      font-size: 1.8rem;
+    }
+  }
+}

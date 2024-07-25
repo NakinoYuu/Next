@@ -1,0 +1,12 @@
+.research {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: sticky;
+  .researchIcon {
+    font-size: 1.8rem;
+    position: absolute;
+    top: 8.1rem;
+    color: #f3f1ff;
+  }
+}

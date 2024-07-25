@@ -1,0 +1,15 @@
+.Wrapper {
+  background: #f3f1ff;
+  height: 100vh; // 全画面表示に変更
+  display: flex;
+  flex-direction: column;
+  .top {
+    padding-top: 5.5rem;
+
+    .title {
+      font-size: 1.6rem;
+      color: #8c51d7;
+      font-weight: 500;
+    }
+  }
+}

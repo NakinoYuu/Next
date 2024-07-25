@@ -1,0 +1,15 @@
+/* Research.module.scss */
+.research {
+  display: flex;
+  align-items: center;
+  // justify-content: flex-end;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1rem;
+
+  .researchIcon {
+    font-size: 1.8rem;
+    // color: #f3f1ff;
+  }
+}
